@@ -18,11 +18,8 @@ hello.emojic
 🍉
 ```
 
-Run with
-```bash
-emojicodec src/hello.emojic
-./hello
-```
+## Start Here
+`make help`
 
 ## Usage
 
